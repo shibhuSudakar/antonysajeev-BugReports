@@ -8,15 +8,15 @@ assignees: ''
 ---
 
 **Software**
-where the bug was found 
+- where the bug was found 
 
 
 **Describe the bug**
-what the bug is.
+= what the bug is.
 
 
 **To Reproduce**
-Steps to reproduce the bug
+= Steps to reproduce the bug
 
 
 **Device information**
@@ -28,7 +28,7 @@ Steps to reproduce the bug
 
 
 **Expected behavior**
-   Discribe what was expected to happen.
+   =Discribe what was expected to happen.
 
 **Screenshots**
-If applicable add some screenshots
+= If applicable add some screenshots
