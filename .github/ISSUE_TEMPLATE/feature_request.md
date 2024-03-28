@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **software.**
-A description of where the problem was found
+A description of to where the feature is requested
 
 **Device and OS**
 -device type
